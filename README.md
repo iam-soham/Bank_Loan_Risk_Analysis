@@ -6,11 +6,7 @@ An interactive **Power BI dashboard** built to analyze bank loan applications, c
 
 ## 📊 Dashboard Preview
 
-> Add your dashboard screenshot here.
-
-Example:
-
-![Dashboard](Images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
@@ -157,8 +153,6 @@ This dashboard enables decision-makers to:
 - Support data-driven lending strategies
 
 ---
-
-# 📬 Contact
 
 If you have any suggestions or feedback, feel free to connect with me through GitHub.
 

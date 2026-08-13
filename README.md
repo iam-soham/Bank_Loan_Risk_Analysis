@@ -6,7 +6,7 @@ An interactive **Power BI dashboard** built to analyze bank loan applications, c
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard1.png)
 
 ---
 
